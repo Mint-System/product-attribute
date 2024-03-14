@@ -3,7 +3,7 @@
 {
     "name": "Product Weights logistics UoM",
     "summary": "Glue module for product_weight and product_logistics_uom",
-    "version": "14.0.1.0.0",
+    "version": "16.0.1.0.0",
     "development_status": "Beta",
     "category": "Product",
     "website": "https://github.com/OCA/product-attribute",
